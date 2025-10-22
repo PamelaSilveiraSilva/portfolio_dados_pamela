@@ -36,3 +36,13 @@ O projeto mostra a aplicação prática de análise exploratória de dados (EDA)
 
 ## 📂 Estrutura de Arquivos
 
+### 📈 Top 10 Produtos Mais Vendidos
+![Top 10 Produtos](top_produtos.png)
+
+### 🌍 Receita Total por País
+![Receita por País](receita_pais.png)
+
+### 📅 Receita Total por Mês
+![Receita por Mês](receita_mes.png)
+
+
