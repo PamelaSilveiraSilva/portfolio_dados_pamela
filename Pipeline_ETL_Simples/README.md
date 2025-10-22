@@ -3,7 +3,7 @@
 Este repositório reúne projetos de Engenharia de Dados, mostrando todo o fluxo ETL (Extração, Transformação e Carga) aplicado a dados de vendas, além de análises e visualizações. Ideal para demonstrar habilidades práticas para recrutadores!
 
 --
-🗂 Estrutura do Repositório
+##🗂 Estrutura do Repositório
 
 portfolio/
  ├─ notebooks/
