@@ -6,13 +6,16 @@ Este repositório reúne projetos de Engenharia de Dados, mostrando todo o fluxo
 ## 🗂 Estrutura do Repositório
 
 portfolio/
-├─ notebooks/
-│ ├─ 01_Pipeline_ETL_Simples.ipynb # Pipeline ETL completo
-│ └─ 02_Analise_Vendas.ipynb # Consultas SQL e gráficos
-├─ database/
-│ └─ vendas.db # Banco SQLite com dados tratados
-└─ README.md # Este arquivo
+notbooks/ 
+        └─01_Pipeline_ETL_Simples.ipynb # Pipeline ETL completo
+         └─ 02_Analise_Vendas.ipynb # Consultas SQL e gráficos
+database/
+        └─ vendas.db # Banco SQLite com dados tratados
+README.md
+
+--
  🚀 Projetos
+ 
 1️⃣ Pipeline ETL – Vendas
 
 Objetivo: Demonstrar o fluxo completo de ETL, desde a leitura do CSV até o armazenamento em banco de dados.
