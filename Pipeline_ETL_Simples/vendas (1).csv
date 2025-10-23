@@ -1,0 +1,103 @@
+﻿ID_Venda,Produto,Categoria,Cidade,Vendedor,Quantidade,Preco_Unitario,Total_Venda,Data_Venda
+32,Boné,Acessórios,Fortaleza,Patrícia,7,153.41,1073.87,2024-10-24
+6,Boné,Acessórios,Salvador,Ana,9,493.45,4441.05,2024-10-30
+47,Jaqueta,Vestuário,Belo Horizonte,João,3,445.31,1335.93,2024-11-02
+19,Camisa,Vestuário,Fortaleza,Patrícia,7,50.78,355.46,2024-11-04
+22,Camisa,Vestuário,Rio de Janeiro,Paulo,5,287.98,1439.9,2024-11-14
+95,Jaqueta,Vestuário,Porto Alegre,Ana,1,176.35,176.35,2024-11-16
+55,Tênis,Calçados,São Paulo,Lucas,9,307.4,2766.6,2024-11-17
+90,Calça,Vestuário,Salvador,Fernanda,2,225.91,451.82,2024-11-19
+5,Bolsa,Acessórios,Belo Horizonte,Lucas,8,50.95,407.6,2024-11-20
+56,Relógio,Acessórios,Fortaleza,Fernanda,10,255.38,2553.8,2024-12-05
+59,Calça,Vestuário,Porto Alegre,Marcos,6,237.84,1427.04,2024-12-08
+60,Relógio,Acessórios,Fortaleza,Paulo,2,459.96,919.92,2024-12-14
+76,Camisa,Vestuário,Fortaleza,Patrícia,9,298.83,2689.47,2024-12-17
+46,Calça,Vestuário,Curitiba,Lucas,5,415.48,2077.4,2024-12-21
+92,Jaqueta,Vestuário,Curitiba,Patrícia,7,235.84,1650.88,2024-12-22
+70,Bolsa,Acessórios,Curitiba,Fernanda,2,456.21,912.42,2024-12-26
+50,Bolsa,Acessórios,Curitiba,Marcos,10,123.46,1234.6,2024-12-27
+50,Bolsa,Acessórios,Curitiba,Marcos,10,123.46,1234.6,2024-12-27
+51,Camisa,Vestuário,Rio de Janeiro,Carla,5,347.25,1736.25,2024-12-30
+81,Relógio,Acessórios,Curitiba,Ana,6,163.16,978.96,2024-12-30
+44,Bolsa,Acessórios,Fortaleza,Marcos,7,460.51,3223.57,2025-01-01
+38,Tênis,Calçados,Salvador,,5,198.19,990.95,2025-01-05
+3,Tênis,Calçados,Salvador,Fernanda,1,419.73,419.73,2025-01-05
+39,Tênis,Calçados,Rio de Janeiro,Marcos,6,219.77,1318.62,2025-01-05
+10,Relógio,Acessórios,Rio de Janeiro,Carla,2,119.9,239.8,2025-01-05
+48,Calça,Vestuário,Porto Alegre,Paulo,5,485.77,2428.85,2025-01-06
+67,Relógio,Acessórios,Curitiba,Marcos,6,485.14,2910.84,2025-01-07
+29,Bolsa,Acessórios,Salvador,Ana,10,447.68,4476.8,2025-01-08
+33,Vestido,Vestuário,Fortaleza,Marcos,6,212.71,1276.26,2025-01-24
+14,Calça,Vestuário,Porto Alegre,Ana,3,171.43,514.29,2025-02-03
+65,Relógio,Acessórios,Salvador,Marcos,7,106.07,742.49,2025-02-07
+58,Boné,Acessórios,São Paulo,Carla,8,331.58,2652.64,2025-02-10
+35,Boné,Acessórios,Curitiba,Fernanda,10,296.68,2966.8,2025-02-12
+98,Relógio,Acessórios,Salvador,Patrícia,3,68.15,204.45,2025-02-16
+63,Calça,Vestuário,Fortaleza,João,8,274.13,2193.04,2025-02-17
+52,Calça,Vestuário,Rio de Janeiro,Fernanda,6,55.07,330.42,2025-03-05
+88,Camisa,Vestuário,São Paulo,Marcos,8,0.0,3959.52,2025-03-09
+94,Camisa,Vestuário,São Paulo,,9,161.3,1451.7,2025-03-09
+28,Bolsa,Acessórios,São Paulo,Marcos,10,229.23,2292.3,2025-03-09
+12,Jaqueta,Vestuário,Fortaleza,Lucas,5,350.22,1751.1,2025-03-12
+86,Relógio,Acessórios,Sao Pualo,Marcos,10,386.14,3861.4,2025-03-16
+93,Camisa,Vestuário,Rio de Janeiro,Carla,8,88.08,704.64,2025-03-24
+87,Calça,Vestuário,São Paulo,Carla,3,193.16,579.48,2025-03-29
+23,Tênis,Calçados,Belo Horizonte,Fernanda,7,415.02,2905.14,2025-03-29
+66,Relógio,Acessórios,Porto Alegre,João,6,217.5,1305.0,2025-04-01
+1,Boné,Acessórios,Curitiba,João,4,177.38,709.52,2025-04-04
+24,Vestido,Vestuário,Curitiba,Ana,8,205.71,1645.68,2025-04-06
+20,Boné,Acessórios,Rio de Janeiro,Lucas,2,433.1,866.2,2025-04-07
+13,Boné,Acessórios,São Paulo,Patrícia,10,290.27,2902.7,2025-04-09
+16,Camisa,Vestuário,Rio de Janeiro,Paulo,9,122.29,1100.61,2025-04-17
+68,Relógio,Acessórios,Salvador,Patrícia,6,218.74,1312.44,2025-04-19
+4,Camisa,Vestuário,Salvador,Carla,10,135.23,1352.3,2025-04-20
+80,Vestido,Vestuário,Curitiba,João,4,494.91,1979.64,2025-04-24
+8,Tênis,Calçados,Porto Alegre,Lucas,3,162.34,487.02,2025-05-04
+97,Camisa,Vestuário,Curitiba,Fernanda,8,119.77,958.16,2025-05-06
+72,Bolsa,Acessórios,Rio de Janeiro,Patrícia,7,332.02,2324.14,2025-05-07
+37,Boné,Acessórios,Rio de Janeiro,Paulo,10,267.5,2675.0,2025-05-08
+18,Tênis,Calçados,São Paulo,Ana,5,384.31,1921.55,2025-05-09
+84,Relógio,Acessórios,Curitiba,Fernanda,5,181.85,909.25,2025-05-10
+26,Relógio,Acessórios,Rio de Janeiro,Marcos,6,310.46,1862.76,2025-05-11
+15,Bolsa,Acessórios,Rio de Janeiro,João,3,424.39,1273.17,2025-05-16
+49,Calça,Vestuário,São Paulo,Paulo,1,75.61,75.61,2025-05-18
+41,Boné,Acessórios,Curitiba,Carla,9,261.63,2354.67,2025-05-21
+34,Vestido,Vestuário,Curitiba,João,5,491.27,2456.35,2025-05-22
+62,Vestido,Vestuário,São Paulo,,6,59.18,355.08,2025-05-23
+73,Bolsa,Acessórios,Curitiba,Patrícia,8,83.3,666.4,2025-05-27
+40,Vestido,Vestuário,São Paulo,Ana,6,237.23,1423.38,2025-05-27
+54,Jaqueta,Vestuário,Fortaleza,Marcos,8,133.16,1065.28,2025-05-30
+78,Relógio,Acessórios,Belo Horizonte,Carla,2,-99.9,284.14,2025-06-01
+99,Boné,Acessórios,Rio de Janeiro,Paulo,9,198.35,1785.15,2025-06-03
+17,Relógio,Acessórios,Rio de Janeiro,Lucas,4,484.43,1937.72,2025-06-13
+69,Vestido,Vestuário,Porto Alegre,Lucas,1,115.81,115.81,2025-06-13
+2,Bolsa,Acessórios,Rio de Janeiro,Paulo,9,123.0,1107.0,2025-06-18
+91,Tênis,Calçados,Fortaleza,Paulo,6,171.99,1031.94,2025-06-18
+64,Boné,Acessórios,Fortaleza,Marcos,10,86.27,862.7,2025-06-21
+31,Relógio,Acessórios,Belo Horizonte,Patrícia,4,407.07,1628.28,2025-06-28
+9,Camisa,Vestuário,Curitiba,Carla,9,407.38,3666.42,2025-07-01
+7,Bolsa,Acessórios,Curitiba,Lucas,5,303.81,1519.05,2025-07-03
+71,Tênis,Calçados,Belo Horizonte,Marcos,8,444.37,3554.96,2025-07-03
+53,Jaqueta,Vestuário,Salvador,Paulo,9,474.74,4272.66,2025-07-07
+77,Calça,Vestuário,Belo Horizonte,Patrícia,4,222.87,891.48,2025-07-08
+27,Jaqueta,Vestuário,Rio de Janeiro,Ana,7,405.55,2838.85,2025-07-11
+57,Tênis,Calçados,Salvador,Carla,8,179.02,1432.16,2025-07-13
+11,Boné,Acessórios,Salvador,Ana,5,123.23,616.15,2025-07-16
+82,Camisa,Vestuário,Curitiba,Lucas,2,74.03,148.06,2025-07-17
+85,Relógio,Acessórios,Curitiba,Ana,6,451.57,2709.42,2025-07-18
+43,Vestido,Vestuário,Rio de Janeiro,Fernanda,3,143.47,430.41,2025-07-23
+100,Tênis,Calçados,Curitiba,Patrícia,2,152.03,304.06,2025-08-08
+42,Calça,Vestuário,Porto Alegre,João,5,397.62,1988.1,2025-08-08
+74,Calça,Vestuário,São Paulo,Marcos,5,67.44,337.2,2025-08-11
+61,Jaqueta,Vestuário,Fortaleza,Carla,1,388.69,388.69,2025-08-12
+96,Vestido,Vestuário,Curitiba,Carla,3,190.67,572.01,2025-09-03
+45,Jaqueta,Vestuário,São Paulo,Marcos,5,229.93,1149.65,2025-09-12
+36,Relógio,Acessórios,Fortaleza,,10,467.32,4673.2,2025-09-13
+21,Tênis,Calçados,Rio de Janeiro,Carla,7,303.31,2123.17,2025-09-14
+79,Boné,Acessórios,São Paulo,João,9,389.57,3506.13,2025-10-04
+75,Relógio,Acessórios,Curitiba,Fernanda,6,246.34,1478.04,2025-10-05
+25,Camisa,Vestuário,São Paulo,Ana,1,314.41,314.41,2025-10-08
+89,Relógio,Acessórios,Salvador,,3,58.97,176.91,2025-10-16
+89,Relógio,Acessórios,Salvador,,3,58.97,176.91,2025-10-16
+83,Bolsa,Acessórios,Porto Alegre,Fernanda,8,183.74,1469.92,2025-10-20
+30,Vestido,Vestuário,Belo Horizonte,Ana,8,361.87,2894.96,2025-10-21
