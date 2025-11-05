@@ -22,6 +22,7 @@ O ETL é feito em Python, utilizando bibliotecas como `pandas` e `requests`, e p
 - Git & GitHub  
 
 ---
+
 ````` crypto_forex_trends/
 │
 ├─ data/ # Arquivos CSV gerados
@@ -30,22 +31,21 @@ O ETL é feito em Python, utilizando bibliotecas como `pandas` e `requests`, e p
 │ ├─ transform.py # Transformação e análise de dados
 │ └─ load.py # Carga dos dados transformados
 ├─ venv/ # Ambiente virtual Python
-└─ README.md # Este arquivo
+└─ README.md # Este arquivo 
 
 ---
-## 🔹 Como rodar o projeto
 
-1. Clone o repositório:
-```bash
-git clone https://github.com/PamelaSilveiraSilva/portfolio_dados_pamela/edit/main)crypto_forex_trends.git
+##🔹 Como rodar o projeto
+
+Clone o repositório: https://github.com/PamelaSilveiraSilva/portfolio_dados_pamela/edit/main)crypto_forex_trends.git
 cd crypto_forex_trends
 
 ---
 ## 🔹 Contribuição
 
 Contribuições são bem-vindas! Se quiser melhorar o projeto ou adicionar novas features, faça um fork e abra um pull request.
----
 
+---
 
 ## 🔹 Estrutura do projeto
 
