@@ -1,76 +1,82 @@
-# 🚀 Portfólio de Engenharia de Dados – ETL & Análise de Vendas
+# Pipeline_ETL_Simples
 
-Este repositório reúne projetos de Engenharia de Dados, mostrando todo o fluxo ETL (Extração, Transformação e Carga) aplicado a dados de vendas, além de análises e visualizações. Ideal para demonstrar habilidades práticas para recrutadores!
+Este projeto é um exemplo de **pipeline ETL (Extract, Transform, Load)** simples, desde a geração de um dataset fictício até a análise de dados.  
+O objetivo é demonstrar o fluxo completo de dados, manipulação com Python e criação de visualizações.
 
+---
 
 ## 🗂 Estrutura do Repositório
 
-portfolio/
+Pipeline_ETL_Simples/
+Data/
+        └─ vendas.db # Dataset gerado
+        └── banco_vendas.db # Banco SQLite gerado pelo ETL
 notbooks/ 
         └─01_Pipeline_ETL_Simples.ipynb # Pipeline ETL completo
          └─ 02_Analise_Vendas.ipynb # Consultas SQL e gráficos
-database/
-        └─ vendas.db # Banco SQLite com dados tratados
+         └── 03_analise_dados.ipynb # Análise de dados: EDA, gráficos e insights
 README.md
 
---
- 🚀 Projetos
- 
-1️⃣ Pipeline ETL – Vendas
+---
 
-Objetivo: Demonstrar o fluxo completo de ETL, desde a leitura do CSV até o armazenamento em banco de dados.
---
-Principais etapas:
+## **🛠 Tecnologias utilizadas**
 
-Extração dos dados do CSV 📥
+- **Python** – manipulação de dados e scripts ETL  
+- **pandas** – tratamento e análise de dados  
+- **sqlite3** – armazenamento de dados em banco SQLite  
+- **Matplotlib / Seaborn** – visualização de dados  
+- **Google Colab** – ambiente de desenvolvimento  
 
-Transformação: limpeza, padronização, tratamento de nulos e criação da coluna valor_total 🔄💰
+---
 
-Carga no banco SQLite 💾
+## **📌 Descrição dos notebooks**
 
-Ferramentas usadas: Python (pandas), SQLite, Colab
---
-2️⃣ Análise de Vendas
+### 1️⃣ 01_geracao_dataset.ipynb
+- Cria um dataset fictício de vendas com colunas como `produto`, `preco`, `quantidade` e `data_venda`  
+- Salva o dataset em CSV (`data/vendas.csv`)  
 
-Objetivo: Gerar insights a partir do banco de dados criado no pipeline ETL.
+### 2️⃣ 02_pipeline_ETL.ipynb
+- Carrega o CSV do notebook anterior  
+- Realiza transformações e limpeza (remover duplicados, ajustar tipos de dados)  
+- Salva os dados transformados em um **banco SQLite** (`data/banco_vendas.db`)  
 
-Principais análises:
+### 3️⃣ 03_analise_dados.ipynb
+- Conecta ao banco SQLite e carrega os dados em um DataFrame  
+- Faz **análise exploratória** (EDA): linhas, colunas, tipos de dados, valores nulos, estatísticas descritivas  
+- Cria gráficos e visualizações:  
+  - Distribuição de preços  
+  - Total de vendas por produto  
+  - Evolução de vendas ao longo do tempo  
+- Salva os gráficos como imagens (`.png`) para portfólio ou redes sociais  
 
-Total de vendas por cidade 🏙️
+---
 
-Total de vendas por produto 👗👖
+## **⚡ Como executar o projeto**
 
-Quantidade de vendas por vendedor 🧑‍💼
+1. Abra o **Google Colab** ou seu ambiente local  
+2. Abra e execute os notebooks na ordem:  
+3. Verifique se a pasta `data/` contém o CSV e o banco SQLite  
+4. Os gráficos gerados serão exibidos no notebook e também podem ser salvos como imagens  
 
-Evolução das vendas ao longo do tempo 📈
+---
 
-Ferramentas usadas: Python (pandas, matplotlib, seaborn), SQLite
---
-💡 Insights e Aprendizado
+## **📊 Objetivo do projeto**
 
-Aprendi a construir pipelines ETL simples e funcionais
+- Demonstrar **pipeline ETL completo** de dados fictícios  
+- Mostrar capacidade de:  
+- Gerar datasets realistas  
+- Limpar e transformar dados  
+- Criar banco de dados para análise  
+- Gerar visualizações e insights  
+- Servir como **portfólio** para vagas em **engenharia de dados** ou análise de dados  
 
-Pratiquei consultas SQL e manipulação de dados
+---
 
-Desenvolvi visualizações claras e interativas para comunicar resultados
+## **📌 Observações**
 
-Criei um projeto pronto para portfólio de Engenharia de Dados
---
-📌 Como usar
+- O projeto foi feito de forma **didática e simples**, ideal para estudantes e iniciantes em ETL e análise de dados  
+- Todos os caminhos de arquivos estão centralizados na pasta `data/` para organização  
 
-Clonar o repositório:
-git clone https://github.com/PamelaSilveiraSilva/portfolio_dados_pamela.git
+---
 
-Abrir os notebooks no Colab ou Jupyter.
 
-Rodar primeiro o notebook 01_Pipeline_ETL_Simples.ipynb para criar o banco.
-
-Rodar depois o notebook 02_Analise_Vendas.ipynb para gerar gráficos e insights.
---
-🛠 Ferramentas e Tecnologias
-
-Python: pandas, matplotlib, seaborn
-
-Banco de dados: SQLite
-
-Plataforma: Google Colab
